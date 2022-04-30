@@ -4,15 +4,16 @@ This github repository hosts two thematic maps, one is a choropleth map of the c
 
 
 ## US Covid-19 Rates
-### [Map 1](https://chalsea2000.github.io/geog458covidcases/map1.html) :
+### [Interactive Map 1](https://chalsea2000.github.io/geog458covidcases/map1.html) : 
 
 
-![plot](img/map1.png)
+
+![plot](img/map1.png) 
 
 This choropleth map shows the US Covid-19 Rates per counties (in cases per thousand residents). This map interface allows users to hover above any counties they are curious in and displays the individual case rates for that particular county.
 
 ## US Covid-19 Cases
-### [Map 2](https://chalsea2000.github.io/geog458covidcases/map2.html) :
+### [Interactive Map 2](https://chalsea2000.github.io/geog458covidcases/map2.html) :
 
 
 ![plot](img/map2.png)
