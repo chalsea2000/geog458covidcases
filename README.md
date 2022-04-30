@@ -26,4 +26,5 @@ This project uses datasets from the [New York Times](https://github.com/jakobzha
 
 ## Other Resources
 [Lab 3: Web Map Application](https://github.com/jakobzhao/geog458/tree/master/labs/lab03) with Instructor Bo Zhao
+
 [Lab 4: Interactive Web Mapping](https://github.com/jakobzhao/geog495/tree/main/labs/lab04) with Instructor Bo Zhao
